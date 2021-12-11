@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gansaikhanshur
-- 👀 I’m interested in General Programming and ML
+- 👀 I’m interested in Programming, Finance, and Stoicism 📚
 - 🌱 I’m currently learning RNNT
 - 📫 Reach me at gansaikhanshur@gmail.com
 
