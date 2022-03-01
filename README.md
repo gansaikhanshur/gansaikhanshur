@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gansaikhanshur
 - 👀 I’m interested in Computer Science, Finance, and Philosophy 📚
-- 🌱 I’m currently learning RNNT
+- 🌱 I’m currently learning RNNT & RNA
 - 📫 Reach me at gansaikhanshur@gmail.com
 
 <!---
