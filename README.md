@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gansaikhanshur
-- 👀 I’m interested in Computer Science, Finance, and Philosophy 📚
+- 👀 I’m interested in Computer Science, Personal Health, and Philosophy 📚
 - 🌱 I’m currently learning Hex Arch
 - 📫 Reach me at gansaikhanshur@gmail.com
 
