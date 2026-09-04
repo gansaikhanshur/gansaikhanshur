@@ -57,6 +57,8 @@ section is implemented.
 ## Repository Structure
 
 ```text
+README.md           Public GitHub profile introduction
+DEVELOPMENT.md      Local setup, commands, and deployment notes
 public/              Static assets and, later, a downloadable resume
 src/
   app/               App Router layouts, pages, metadata, and global styles
@@ -104,7 +106,8 @@ npm run build
 ```
 
 Also verify changed pages at narrow and wide viewport sizes when UI exists.
-Update the README when the route map, tooling, deployment model, setup steps, or
+Keep `README.md` concise and appropriate for the public GitHub profile. Update
+`DEVELOPMENT.md` when the route map, tooling, deployment model, setup steps, or
 content source changes.
 
 ## Vercel
