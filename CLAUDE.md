@@ -184,3 +184,9 @@ The selected hosting model connects Vercel to the GitHub repository
 `gansaikhanshur/gansaikhanshur` for automatic deployments. Setup instructions
 are in `DEVELOPMENT.md`; keep local `.vercel/` configuration out of Git.
 GitHub Pages is not configured.
+
+The live site is `https://gansaikhanshur.vercel.app`, hosted in the Vercel project
+`gansaikhan-shurs-projects/gansaikhanshur`. CLI deployment is working; the GitHub
+app repository connection still needs authorization before automatic deployments
+are active. Use an explicit preview target for previews and deploy production
+from `main`.

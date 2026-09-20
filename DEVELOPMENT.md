@@ -118,9 +118,15 @@ motion when editing transitions. Keep `AGENTS.md` and `CLAUDE.md` byte-identical
 
 ## Deployment
 
-The selected hosting setup is Vercel connected to the GitHub repository
-`gansaikhanshur/gansaikhanshur`. Keep `main` as the production branch; other
-branches and pull requests use preview deployments.
+The site is deployed at [gansaikhanshur.vercel.app](https://gansaikhanshur.vercel.app)
+in the Vercel project `gansaikhan-shurs-projects/gansaikhanshur`. The selected
+hosting setup connects it to `gansaikhanshur/gansaikhanshur` on GitHub, with
+`main` as the production branch and other branches used for previews.
+
+The initial deployment was made through the CLI. The GitHub connection still
+requires repository access in the Vercel GitHub app; automatic deployments are
+not active until that connection succeeds. To deploy production manually from
+`main`, run `vercel deploy --prod --yes` after the quality checks pass.
 
 To connect through the dashboard, import the repository at
 [vercel.com/new](https://vercel.com/new), select the Next.js framework preset,
@@ -133,7 +139,7 @@ Alternatively, from an authenticated Vercel CLI:
 vercel login
 vercel link
 vercel git connect https://github.com/gansaikhanshur/gansaikhanshur.git
-vercel                 # Preview the current branch
+vercel --target=preview # Explicit preview of the current branch
 ```
 
 The Vercel GitHub integration may require installing/authorizing the Vercel
