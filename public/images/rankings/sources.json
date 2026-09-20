@@ -1,0 +1,282 @@
+[
+  {
+    "key": "zen",
+    "title": "Zen and the Art of Motorcycle Maintenance",
+    "description": "1974 book by Robert M. Pirsig",
+    "source": "https://i.thriftbooks.com/api/imagehandler/m/6FB8828B575D03B57A4C55F7E9799E96FECCA43F.jpeg",
+    "image": {
+      "source": "https://i.thriftbooks.com/api/imagehandler/m/6FB8828B575D03B57A4C55F7E9799E96FECCA43F.jpeg"
+    },
+    "localFile": "zen-thriftbooks.webp",
+    "width": 232,
+    "height": 350
+  },
+  {
+    "key": "lila",
+    "title": "Lila: An Inquiry into Morals",
+    "description": "1991 novel by Robert M. Pirsig",
+    "source": "https://en.wikipedia.org/wiki/Lila%3A_An_Inquiry_into_Morals",
+    "image": {
+      "source": "https://upload.wikimedia.org/wikipedia/en/8/8a/RobertMPirsig_Lila.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "width": 252,
+      "height": 379
+    },
+    "localFile": "lila.webp",
+    "width": 252,
+    "height": 379
+  },
+  {
+    "key": "dota-2",
+    "title": "Dota 2",
+    "description": "2013 video game",
+    "source": "https://en.wikipedia.org/wiki/Dota_2",
+    "image": {
+      "source": "https://upload.wikimedia.org/wikipedia/en/3/31/Dota_2_Steam_artwork.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "width": 258,
+      "height": 387
+    },
+    "localFile": "dota-2.webp",
+    "width": 258,
+    "height": 387
+  },
+  {
+    "key": "expedition-33",
+    "title": "Clair Obscur: Expedition 33",
+    "description": "2025 video game",
+    "source": "https://en.wikipedia.org/wiki/Clair_Obscur%3A_Expedition_33",
+    "image": {
+      "source": "https://upload.wikimedia.org/wikipedia/en/5/5a/Clair_Obscur%2C_Expedition_33_Cover_1.webp?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "width": 272,
+      "height": 366
+    },
+    "localFile": "expedition-33.webp",
+    "width": 272,
+    "height": 366
+  },
+  {
+    "key": "last-of-us-1",
+    "title": "The Last of Us Part I",
+    "description": "2022 video game",
+    "source": "https://en.wikipedia.org/wiki/The_Last_of_Us_Part_I",
+    "image": {
+      "source": "https://upload.wikimedia.org/wikipedia/en/8/86/The_Last_of_Us_Part_I_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "width": 280,
+      "height": 354
+    },
+    "localFile": "last-of-us-1.webp",
+    "width": 280,
+    "height": 354
+  },
+  {
+    "key": "last-of-us-2",
+    "title": "The Last of Us Part II",
+    "description": "2020 video game",
+    "source": "https://en.wikipedia.org/wiki/The_Last_of_Us_Part_II",
+    "image": {
+      "source": "https://upload.wikimedia.org/wikipedia/en/4/4f/TLOU_P2_Box_Art_2.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "width": 273,
+      "height": 365
+    },
+    "localFile": "last-of-us-2.webp",
+    "width": 273,
+    "height": 365
+  },
+  {
+    "key": "perfect-days",
+    "title": "Perfect Days",
+    "description": "2023 film by Wim Wenders",
+    "source": "https://en.wikipedia.org/wiki/Perfect_Days",
+    "image": {
+      "source": "https://upload.wikimedia.org/wikipedia/en/c/c9/Perfect_Days_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "width": 264,
+      "height": 377
+    },
+    "localFile": "perfect-days.webp",
+    "width": 264,
+    "height": 377
+  },
+  {
+    "key": "interstellar",
+    "title": "Interstellar (film)",
+    "description": "2014 film by Christopher Nolan",
+    "source": "https://en.wikipedia.org/wiki/Interstellar_(film)",
+    "image": {
+      "source": "https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "width": 220,
+      "height": 326
+    },
+    "localFile": "interstellar.webp",
+    "width": 220,
+    "height": 326
+  },
+  {
+    "key": "better-call-saul",
+    "title": "Better Call Saul",
+    "premiered": "2015-02-08",
+    "source": "https://www.tvmaze.com/shows/618/better-call-saul",
+    "image": {
+      "source": "https://static.tvmaze.com/uploads/images/original_untouched/501/1253515.jpg"
+    },
+    "localFile": "better-call-saul.webp",
+    "width": 600,
+    "height": 900
+  },
+  {
+    "key": "penguin",
+    "title": "The Penguin",
+    "premiered": "2024-09-19",
+    "source": "https://www.tvmaze.com/shows/60920/the-penguin",
+    "image": {
+      "source": "https://static.tvmaze.com/uploads/images/original_untouched/536/1340329.jpg"
+    },
+    "localFile": "penguin.webp",
+    "width": 600,
+    "height": 900
+  },
+  {
+    "key": "frieren",
+    "title": "Frieren: Beyond Journey's End",
+    "premiered": "2023-09-29",
+    "source": "https://www.tvmaze.com/shows/69956/frieren-beyond-journeys-end",
+    "image": {
+      "source": "https://static.tvmaze.com/uploads/images/original_untouched/479/1198409.jpg"
+    },
+    "localFile": "frieren.webp",
+    "width": 600,
+    "height": 900
+  },
+  {
+    "key": "orb",
+    "title": "Orb: On the Movements of the Earth",
+    "source": "https://www.themoviedb.org/tv/204635-chi-chikyuu-no-undou-ni-tsuite/images/posters",
+    "image": {
+      "source": "https://image.tmdb.org/t/p/original/x0TZP1UOKYDYKCa4d4qXLOBQrlc.jpg"
+    },
+    "localFile": "orb.webp",
+    "width": 600,
+    "height": 900
+  },
+  {
+    "key": "edgerunners",
+    "title": "Cyberpunk: Edgerunners",
+    "premiered": "2022-09-13",
+    "source": "https://www.tvmaze.com/shows/48945/cyberpunk-edgerunners",
+    "image": {
+      "source": "https://static.tvmaze.com/uploads/images/original_untouched/498/1246519.jpg"
+    },
+    "localFile": "edgerunners.webp",
+    "width": 612,
+    "height": 900
+  },
+  {
+    "key": "arcane",
+    "title": "Arcane Season 2",
+    "premiered": "2021-11-06",
+    "source": "https://www.tvmaze.com/shows/55138/arcane-league-of-legends",
+    "image": {
+      "source": "https://static.tvmaze.com/uploads/images/original_untouched/536/1340287.jpg"
+    },
+    "localFile": "arcane.webp",
+    "width": 600,
+    "height": 900
+  },
+  {
+    "key": "jojo",
+    "title": "JoJo’s Bizarre Adventure: Stardust Crusaders",
+    "source": "https://natalie.mu/comic/gallery/news/106280/209251",
+    "image": {
+      "source": "https://ogre.natalie.mu/media/news/comic/2013/1017/JOJO_SC_KEY01_ss.jpg?imdensity=1&impolicy=lt&imwidth=800"
+    },
+    "localFile": "jojo.webp",
+    "width": 638,
+    "height": 900
+  },
+  {
+    "key": "coraline",
+    "title": "Coraline",
+    "source": "https://www.impawards.com/2009/coraline.html",
+    "image": {
+      "source": "https://www.impawards.com/2009/posters/coraline_xlg.jpg"
+    },
+    "localFile": "coraline.webp",
+    "width": 628,
+    "height": 900
+  },
+  {
+    "key": "kiki",
+    "title": "Kiki’s Delivery Service",
+    "source": "https://www.movieposters.com/products/kikis-delivery-service-mpw-128737",
+    "image": {
+      "source": "https://www.movieposters.com/cdn/shop/products/Kikisdeliveryservice_1024x1024.jpg?v=1762968201"
+    },
+    "localFile": "kiki.webp",
+    "width": 500,
+    "height": 773
+  },
+  {
+    "key": "why-we-sleep",
+    "title": "Why We Sleep",
+    "source": "https://www.simonandschuster.com/books/Why-We-Sleep/Matthew-Walker/9781501144325",
+    "image": {
+      "source": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781501144325/why-we-sleep-9781501144325_hr.jpg"
+    },
+    "localFile": "why-we-sleep.webp",
+    "width": 591,
+    "height": 900
+  },
+  {
+    "key": "joker",
+    "title": "Joker (2019)",
+    "source": "https://www.impawards.com/2019/joker.html",
+    "image": {
+      "source": "https://www.impawards.com/2019/posters/joker.jpg"
+    },
+    "localFile": "joker.webp",
+    "width": 510,
+    "height": 755
+  },
+  {
+    "key": "your-name",
+    "title": "Your Name",
+    "source": "https://www.impawards.com/intl/japan/2016/kimi_no_na_wa.html",
+    "image": {
+      "source": "https://www.impawards.com/intl/japan/2016/posters/kimi_no_na_wa.jpg"
+    },
+    "localFile": "your-name.webp",
+    "width": 510,
+    "height": 755
+  },
+  {
+    "key": "arcane-season-1",
+    "title": "Arcane Season 1",
+    "source": "https://www.tvmaze.com/shows/55138/arcane-league-of-legends/seasons",
+    "image": {
+      "source": "https://static.tvmaze.com/uploads/images/original_untouched/380/951825.jpg"
+    },
+    "localFile": "arcane-season-1.webp",
+    "width": 612,
+    "height": 900
+  },
+  {
+    "key": "love-death-robots",
+    "title": "Love, Death & Robots",
+    "source": "https://www.tvmaze.com/shows/40329/love-death-robots",
+    "image": {
+      "source": "https://static.tvmaze.com/uploads/images/original_untouched/501/1253559.jpg"
+    },
+    "localFile": "love-death-robots.webp",
+    "width": 607,
+    "height": 900
+  },
+  {
+    "key": "breaking-bad-selected",
+    "title": "Breaking Bad",
+    "source": "https://i.ebayimg.com/images/g/Y8gAAOSwq79kBnnW/s-l1200.jpg",
+    "image": {
+      "source": "https://i.ebayimg.com/images/g/Y8gAAOSwq79kBnnW/s-l1200.jpg"
+    },
+    "localFile": "breaking-bad-selected.webp",
+    "width": 720,
+    "height": 900
+  }
+]
