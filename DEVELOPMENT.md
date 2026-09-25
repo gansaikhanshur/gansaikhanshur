@@ -45,7 +45,9 @@ Null entries show “Still deciding.” Each pick has a title, optional note, an
 be supplied by the owner or factual labels, not invented opinions.
 
 Each category has a `notesPrompt` defining its popup link label and placeholder
-sections. A pick’s optional `notesLabel` overrides its category’s label; each
+sections as a fallback. All 21 current picks have owner-supplied reviews in
+`notes`, preserved word for word. Books uses “Book Review” as its popup link
+label. A pick’s optional `notesLabel` overrides its category’s label; each
 anime has its own label. Video Games supports clicking “Press X to Expand” or
 pressing X while its selection is settled. Typing, modifier shortcuts, repeated
 keys, and open dialogs do not trigger the shortcut. To replace the placeholder for one item, add
@@ -81,7 +83,7 @@ link yet; add its URL after it is published. Forklore is still in development.
 
 ### Resume
 
-The owner’s original files are included at:
+The owner’s updated original files are included at:
 
 - `public/resume/resume.pdf` — original document displayed in the viewer
 - `public/resume/resume.docx` — Word download

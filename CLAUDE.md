@@ -26,8 +26,9 @@ Implemented sections include:
 
 The first visual implementation is complete. Rankings contain the owner’s supplied
 picks and locally stored artwork, including Why We Sleep as the third book. Each populated
-pick has a category-specific notes dialog with clearly marked placeholder text. The original PDF
-and DOCX resume files are supplied, with the PDF embedded and both downloadable.
+pick has a category-specific notes dialog containing the owner’s supplied review,
+preserved word for word. Updated PDF and DOCX resume files are supplied, with the
+PDF embedded and both downloadable.
 Planorama's repository link remains unpublished; Forklore is labeled in development.
 Do not invent personal content, project capabilities, or resume details.
 
@@ -91,7 +92,8 @@ without restructuring page components.
   Supplied picks have a title, optional factual note, and local artwork with alt
   text and source metadata. Do not invent personal reasons for rankings.
 - Each category defines a `notesPrompt` with a link label and placeholder sections.
-  Books uses “Review” as its notes button label.
+  Books uses “Book Review” as its notes button label. All 21 current picks contain
+  owner-supplied reviews; preserve their wording and punctuation when updating them.
   Add `notes: [{ heading, body }]` to an individual pick to supply its real notes.
   Optional `notesLabel` overrides the category button label (used for each anime).
   Video Games uses “Press X to Expand” and accepts X while the displayed selection
