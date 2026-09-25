@@ -29,7 +29,8 @@ picks and locally stored artwork, including Why We Sleep as the third book. Each
 pick has a category-specific notes dialog containing the owner’s supplied review,
 preserved word for word. Updated PDF and DOCX resume files are supplied, with the
 PDF embedded and both downloadable.
-Planorama's repository link remains unpublished; Forklore is labeled in development.
+Planorama links to `https://github.com/gansaikhanshur/planorama`;
+Forklore is labeled in development.
 Do not invent personal content, project capabilities, or resume details.
 
 ## Technology

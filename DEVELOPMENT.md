@@ -78,8 +78,9 @@ cropping its embedded text.
 The contact details are supplied by the owner. The email row copies the address
 with the browser Clipboard API instead of opening a mail app. Its copy icon
 changes to a checkmark with “Email copied!” for 2.5 seconds after success;
-failure displays a message and leaves the address available for manual copying. Planorama has no active repository
-link yet; add its URL after it is published. Forklore is still in development.
+failure displays a message and leaves the address available for manual copying.
+Planorama links to `https://github.com/gansaikhanshur/planorama`.
+Forklore is still in development.
 
 ### Resume
 

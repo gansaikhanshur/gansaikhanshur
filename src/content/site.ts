@@ -54,8 +54,8 @@ export const projects: readonly Project[] = [
         name: "Planorama",
         description:
           "A skill for interactively reviewing the plan.md files that agents create.",
-        href: null,
-        status: "Repository coming soon",
+        href: "https://github.com/gansaikhanshur/planorama",
+        status: "View on GitHub",
       },
       {
         name: "Forklore",
